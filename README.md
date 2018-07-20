@@ -9,3 +9,7 @@ This is how the game looks like:
 ![alt text](https://github.com/EliskaSvobodova/Game-Savior-maybe/blob/master/screenIntro.png)
 
 In the very beggining a start screen appears with the introduction to the story and short description of how to control the game. Then first level starts. The game has 5 levels with increasing difficulty. 
+
+![alt text](https://github.com/EliskaSvobodova/Game-Savior-maybe/blob/master/screenControl.png)
+
+The game ends when you run out of lives or when you complete 5th level by beating the final boss.
