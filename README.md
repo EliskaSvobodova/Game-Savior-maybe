@@ -7,3 +7,5 @@ Game is controled with mouse movement and mouseclicks. In the beginning, you hav
 
 This is how the game looks like:
 ![alt text](https://github.com/EliskaSvobodova/Game-Savior-maybe/blob/master/screenIntro.png)
+
+In the very beggining a start screen appears with the introduction to the story and short description of how to control the game. Then first level starts. The game has 5 levels with increasing difficulty. 
